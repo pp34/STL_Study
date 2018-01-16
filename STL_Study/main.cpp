@@ -1,16 +1,16 @@
 #include "main.h"
 
 
-int main(void){
+int main( void ){
 
     //p86_310();
-    int n{ 0 };
-    std::string tmp1{ "ÆæÊı\n" }, tmp2{ "Å¼Êı\n" };
-    std::string tmp;
-    while(1){
-        std::cin >> n;
-        tmp = ( ( n % 2 ) == 0 ) ? tmp2 : tmp1;
-        std::cout << tmp << std::endl;
-    }
+    std::vector<std::string>::iterator iter;
+    std::vector<std::string> str{"123"};
+    iter = str.begin();
+
+    //std::cout << *iter++ << std::endl;
+    std::cout << iter++->empty() << std::endl;
+
+
     return 0;
 }

@@ -3,7 +3,7 @@
 /******** STL *********/
 #include<iostream>
 #include<string>
-
+#include <vector>
 
 /******** OWN *********/
 #include "fstring.h"
