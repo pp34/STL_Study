@@ -1,3 +1,4 @@
 ﻿  main.cpp
+f:\github\stl_study\stl_study\main.cpp(21): warning C4172: 返回局部变量或临时变量的地址
   STL_Study.vcxproj -> F:\Github\STL_Study\Debug\STL_Study.exe
   STL_Study.vcxproj -> F:\Github\STL_Study\Debug\STL_Study.pdb (Full PDB)
