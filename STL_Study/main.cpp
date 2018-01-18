@@ -1,5 +1,6 @@
 #include "main.h"
 
+
 int&& func( int&& a );
 
 

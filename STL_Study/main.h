@@ -7,6 +7,7 @@
 
 /******** OWN *********/
 #include "fstring.h"
+#include "statement.h"
 
 
 #endif
