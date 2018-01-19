@@ -144,10 +144,12 @@
   <ItemGroup>
     <ClCompile Include="fstring.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="steam.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fstring.h" />
     <ClInclude Include="main.h" />
+    <ClInclude Include="steam.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

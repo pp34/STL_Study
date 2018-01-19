@@ -6,10 +6,7 @@ int&& func( int&& a );
 
 int main( void ){
 
-    std::string::iterator it;
-    //if(it == nullptr){
-        std::cout << *it << std::endl;
-   // }
+    trystatement();
     return 0;
 }
 
